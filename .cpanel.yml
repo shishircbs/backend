@@ -1,6 +1,0 @@
-# @format
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/gbpvt/gyanbyte
-    - /bin/cp * $DEPLOYPATH
